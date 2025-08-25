@@ -14,7 +14,7 @@
 Este é o meu **portfólio pessoal**, criado para apresentar minha trajetória, habilidades, projetos e certificações de forma moderna e interativa.  
 O objetivo é mostrar não apenas habilidades técnicas, mas também **boas práticas de desenvolvimento web** e atenção à experiência do usuário.
 
-💻 **Acesse aqui:** [andrew-costaa.github.io/meu-portfolio](https://andrew-costaa.github.io/meu-portfolio)
+💻 **Acesse aqui:** [andrew-costaa.github.io/meu-portfolio](https://github.com/andrew-costaa/project-my-portfolio)
 
 ---
 
